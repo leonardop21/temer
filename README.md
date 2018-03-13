@@ -1,6 +1,6 @@
 # Explodes
 
-# Do not click on the red ball or you will be able to play
+# Do not click the red ball or you lose the game
 
 ## Burst the balls that appear on the screen and make the highest possible score
 
